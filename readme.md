@@ -1,7 +1,7 @@
 # Hubble Card
 
 > Card example
-> To see a Live demo click [_here_](https://danieltrandafir.github.io/My-Portfolio/). <!-- If you have the project hosted somewhere, include the link here. -->
+> To see a Live demo click [_here_](https://danieltrandafir.github.io/Hubble-Card/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 
